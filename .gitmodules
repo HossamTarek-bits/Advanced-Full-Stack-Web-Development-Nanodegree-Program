@@ -1,0 +1,3 @@
+[submodule "Image-Processing-Api"]
+	path = Image-Processing-Api
+	url = https://github.com/HossamTarek-bits/Image-Processing-Api-FWD
